@@ -9,6 +9,8 @@ namespace PIS_lab1
         public void NewMethod()
         {
 
+        public void AddingFromWeb() {
+            
         }
     }
 }
