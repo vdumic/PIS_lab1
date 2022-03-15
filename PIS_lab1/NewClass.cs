@@ -6,5 +6,9 @@ namespace PIS_lab1
 {
     class NewClass
     {
+        public void NewMethod()
+        {
+
+        }
     }
 }
